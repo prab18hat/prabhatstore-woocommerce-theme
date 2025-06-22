@@ -3,6 +3,26 @@
 A fully functional e-commerce website built using the Astra Starter Template and WooCommerce on top of WordPress. This project demonstrates my skills in setting up WordPress themes, integrating key plugins, and creating a complete online store workflow including cart, checkout, and product listings.
 
 ---
+## 📸 Screenshots
+
+### 🏠 Homepage (Hero Banner + CTA)
+![Homepage](screenshots/ss11.PNG)
+
+---
+
+### 🛒 Cart Page (Empty State)
+![Cart Page](screenshots/ss5.PNG)
+
+---
+
+### 🛍️ Shop Page (Product Listings)
+![Shop Page](screenshots/ss22.PNG)
+
+---
+
+### 🖼️ Product Offers & Footer Section
+![Product Cards](screenshots/ss33.PNG)
+
 
 ## 🔧 Features
 
